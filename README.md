@@ -1,2 +1,1 @@
-# my-codex-project
-my-codex-project
+can u create for me a fivem script that the script have a menu if i write a /playsoungmenu on the chat and the menu gonna open and the menu have play buttom and stop buttom and can u add if i paste the youtube link the script gonna play the song and can add before a play the song the menu gonaa ask me for which play do you want to play the song and there are a  selection menu on the menu i need to choses for which play and can u add for all play options and im using qb-core  
